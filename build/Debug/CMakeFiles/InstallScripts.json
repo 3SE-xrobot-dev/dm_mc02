@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/Embedded/STM32project/dm_mc02/build/Debug/cmake_install.cmake",
-		"E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

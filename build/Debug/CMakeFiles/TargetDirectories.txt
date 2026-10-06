@@ -1,8 +1,0 @@
-E:/Embedded/STM32project/dm_mc02/build/Debug/CMakeFiles/dm_mc02.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/CMakeFiles/edit_cache.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/CMakeFiles/rebuild_cache.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/CMakeFiles/USB_Device_Library.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-E:/Embedded/STM32project/dm_mc02/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
