@@ -3,6 +3,7 @@ build/**
 .cache/**
 .config.yaml
 CMakeFiles/**
+/.settings/
 /User/xrobot_main.hpp
 /Modules/CMakeLists.txt
 /Modules/*/
