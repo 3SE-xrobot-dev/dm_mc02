@@ -3,3 +3,6 @@
 sources:
   - url: https://xrobot-org.github.io/xrobot-modules/index.yaml
     priority: 0
+  - url: https://raw.githubusercontent.com/3SE-xrobot-dev/modules-index/main/index.yaml
+    priority: 0
+

@@ -17,7 +17,7 @@
 #include "stm32_uart.hpp"
 #include "stm32_usb_dev.hpp"
 #include "stm32_watchdog.hpp"
-#include "flash_map.hpp"
+#include "xrobot_main.hpp"
 
 using namespace LibXR;
 
@@ -120,9 +120,7 @@ extern "C" void app_main(void) {
   // clang-format on
   // NOLINTEND
   /* User Code Begin 3 */
-  while(true) {
-    Thread::Sleep(UINT32_MAX);
-  }
+  XROBOT_MAIN();
 
   /* User Code End 3 */
 }

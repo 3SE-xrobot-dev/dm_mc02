@@ -2,5 +2,8 @@
 # Example:
 #   - xrobot-org/BlinkLED
 #   - your-namespace/YourModule@dev
+xrobot: 1.0.0
 modules:
   - xrobot-org/BlinkLED
+  # Temporarily disabled: Buzzer manifest is incompatible with XRobot 1.0.
+  # - 3SE-xrobot-dev/Buzzer
